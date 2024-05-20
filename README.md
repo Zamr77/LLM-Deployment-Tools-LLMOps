@@ -6,3 +6,7 @@ Welcome to the repository for A Deep Dive into Open-Source Tools for Large Langu
 
 ### Objective
 The aim of this project is to conduct an empirical study that assesses the challenges and prospects of deploying large language models (LLMs) in real-world applications using open-source tools. This study will involve the identification and analysis of deployment tools, categorization of common issues, and development of potential improvements to enhance tool effectiveness. Understanding these aspects is crucial as it directly impacts the practical usability of LLMs across various sectors. By identifying and addressing the deployment challenges, this research seeks to contribute to the broader adoption and optimization of LLM technologies, ensuring that these powerful tools are more accessible and effective in practical applications.
+
+### Deployement tools list
+Here is the google sheet link for the deployement tools showing them in details 
+https://docs.google.com/spreadsheets/d/10SDpgFDIpUo0zsiGx_TTyShcT1Vx9Tt0cr5P_uZ2g6k/edit#gid=0
