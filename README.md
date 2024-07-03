@@ -9,4 +9,4 @@ The aim of this project is to conduct an empirical study that assesses the chall
 
 ### Deployement tools list
 Here is the google sheet link for the deployement tools showing them in details 
-https://docs.google.com/spreadsheets/d/1h4alvSgbIHqYVQFk-rPoAzF7DysAk-MrhAA6DkbMWQc/edit#gid=2140967810
+https://docs.google.com/spreadsheets/d/1B8x68HlJGpnS0APcnU_829PVQ3NIHTvzHrdj2OiqjwE/edit?gid=677022564#gid=677022564
